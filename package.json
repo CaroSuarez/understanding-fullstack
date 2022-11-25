@@ -1,0 +1,24 @@
+{
+  "name": "understanding-fullstack",
+  "version": "1.0.0",
+  "description": "This is a fullstack project: Express for backend, React for frontend. I'm studying about the connection between back and front! :)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CaroSuarez/understanding-fullstack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CaroSuarez/understanding-fullstack/issues"
+  },
+  "homepage": "https://github.com/CaroSuarez/understanding-fullstack#readme",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2"
+  }
+}
